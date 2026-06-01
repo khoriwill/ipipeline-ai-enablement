@@ -2,7 +2,7 @@
 
 **The rule: if you can't measure it, you can't defend it in the next budget cycle.**
 
-This document defines how AI enablement success is measured at — from individual agent performance to program-level ROI.
+This document defines how AI enablement success is measured — from individual agent performance to program-level ROI.
 
 ---
 
