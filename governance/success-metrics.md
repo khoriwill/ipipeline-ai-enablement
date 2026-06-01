@@ -114,7 +114,7 @@ Additional value not captured in hours:
 
 ## Dashboard
 
-All metrics are visible in a Microsoft Power BI dashboard connected to:
+All metrics will be visible in a Microsoft Power BI dashboard connected to:
 - Copilot Studio analytics (activity metrics)
 - ServiceNow (ticket metrics)
 - Quarterly survey results (efficiency metrics)
