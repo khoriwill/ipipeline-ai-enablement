@@ -11,7 +11,7 @@ The first 90 days are not about building everything. They are about building the
 
 Speed without foundation = shelfware. Foundation without speed = lost momentum.
 
-The goal is one successful, well-measured, well-communicated win by day 90 — and a clear roadmap for what comes next.
+The goal is one successful, well-measured, well-communicated win by day 90 and a clear roadmap for what comes next.
 
 ---
 
