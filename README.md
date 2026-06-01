@@ -1,4 +1,4 @@
-# iPipeline AI Enablement Framework
+# AI Enablement Framework
 
 **Author:** Khori Williams — Cloud & AI Infrastructure | TPM | AI Enablement  
 **Stack:** Microsoft Copilot Studio · Power Automate · Azure AI · Python  
